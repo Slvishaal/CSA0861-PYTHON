@@ -1,0 +1,9 @@
+a=int(input('enter the number of fresh loves purchased'))
+b=int(input('enter the number of day old loaves purchased'))
+print('regular price : Rs.185')
+fresh=(185*float(a))
+old=(185*0.4)*float(b)
+total=fresh+old
+print('Amount of new loaves : Rs',fresh)
+print('Amount of old loaves : Rs',old)
+print('total amount: Rs',total)
