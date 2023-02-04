@@ -5,4 +5,4 @@ def isMatch(self, s, p):
             return False
         return True
 S=input ("enter the ") 
-P=input("enter the word")
+P=input("enter the word ")
