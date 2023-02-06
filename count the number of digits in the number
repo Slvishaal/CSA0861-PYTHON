@@ -1,0 +1,2 @@
+num =34526578
+print(len(str(num)))
